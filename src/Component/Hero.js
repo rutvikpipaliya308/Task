@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from './Navbar';
+import { Navbar } from './Navbar';
 
 export const Hero = () => {
     return (
@@ -31,5 +31,3 @@ export const Hero = () => {
         </section>
     )
 }
-
-export default Hero;

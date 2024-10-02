@@ -2,6 +2,53 @@
 @tailwind components;
 @tailwind utilities;
 
+
+  .body-small{
+    @apply font-inter text-[14px] font-normal leading-[20.02px] text-right text-customWhite;
+  }
+
+  .body-medium {
+    @apply font-inter text-[16px] font-normal leading-[24px] text-left text-customWhite;
+  }
+
+  .body-large {
+    @apply font-normal text-[18px] leading-[27.9px] text-customWhite text-left;
+  }
+
+  .title-medium {
+    @apply font-inter text-[20px] font-semibold leading-[28px] text-customWhite text-left;
+  }
+
+  .title-large {
+    @apply font-inter text-[22px] font-semibold leading-[32.12px] text-left text-customWhite;
+  }
+
+  .title-small {
+    @apply font-inter text-[18px] font-semibold leading-[27.9px] text-left text-customWhite;
+  }
+
+  .display-small {
+    @apply font-inter text-[58px] font-semibold leading-[71.92px] text-left text-customWhite;
+  }
+
+  .headline-small{
+    @apply font-inter text-[28px] font-semibold leading-[40.04px] text-left text-customWhite;
+  }
+
+  .headline-medium {
+    @apply font-inter text-[36px] font-semibold leading-[47.88px] text-left text-customWhite;
+  }
+
+  .headline-large {
+    @apply font-inter text-[46px] font-semibold leading-[56.12px] text-left text-customWhite;
+  }
+
+  .lagel-large {
+    @apply font-inter text-[16px] font-medium leading-[24px] text-center text-customWhite;
+  }
+
+  
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
