@@ -9,7 +9,7 @@ import { Products } from './Component/Products';
 
 function App() {
   return (
-    <div className="App w-[1920px]">
+    <div className="App w-[1920px] h-[5192px]">
       <Hero />
       <Products />
       <CompanyInfo />

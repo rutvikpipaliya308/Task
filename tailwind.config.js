@@ -15,6 +15,9 @@ module.exports = {
       fontFamily: {
         inter: ['Inter', 'sans-serif'],
       },
+      letterSpacing: {
+        '-4': '-0.04em',
+      },
     },
   },
   plugins: [],

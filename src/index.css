@@ -31,6 +31,10 @@
     @apply font-inter text-[58px] font-semibold leading-[71.92px] text-left text-customWhite;
   }
 
+  .display-large {
+    @apply font-inter text-[72px] font-semibold leading-[83.52px] text-left text-customWhite;
+  }
+
   .headline-small{
     @apply font-inter text-[28px] font-semibold leading-[40.04px] text-left text-customWhite;
   }
@@ -43,7 +47,7 @@
     @apply font-inter text-[46px] font-semibold leading-[56.12px] text-left text-customWhite;
   }
 
-  .lagel-large {
+  .label-large {
     @apply font-inter text-[16px] font-medium leading-[24px] text-center text-customWhite;
   }
 
