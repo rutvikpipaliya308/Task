@@ -1,4 +1,3 @@
-// src/reducers/reviewReducer.js
 import { FETCH_REVIEWS_REQUEST, FETCH_REVIEWS_SUCCESS, FETCH_REVIEWS_FAILURE } from '../actions/reviewActions';
 
 const initialState = {

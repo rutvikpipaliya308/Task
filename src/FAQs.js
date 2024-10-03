@@ -26,6 +26,5 @@ export const FAQs = [
         id: 5,
         question: 'Donec eget ante ipsum.Nam vestibulum maximus venenatis ?',
         answer: 'Vestibulum tempus et turpis at pretium. Nam cursus purus lacus, vitae pharetra quam ultricies eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent non tincidunt risus. Sed aliquam fringilla diam, nec sollicitudin arcu aliquet efficitur. Etiam at justo vel augue ornare mollis sagittis non tortor. Duis eu libero elit. Vivamus risus felis, auctor id ullamcorper a, tincidunt sed magna.',
-    },
-    // Add more reviews as needed
+    }
 ];
